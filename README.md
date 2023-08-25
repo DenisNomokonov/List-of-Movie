@@ -5,11 +5,14 @@
 
 ## Introduction
 
-`List of Movies` is a CRUD app hich works like a simple note. Here you can add a movie, edit or delete an existing record.
+`List of Movies` is a CRUD app which works like a simple note. Here you can add a movie, edit or delete an existing record.
 
  
 
 
+<p align="center">
+    <img src="https://github.com/DenisNomokonov/List-of-Movie/blob/main/MovieDataBase/assets/View.png?raw=true"/>
+</p>
 
 ## Contributers
 
